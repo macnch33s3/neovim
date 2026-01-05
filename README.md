@@ -3,5 +3,6 @@
 ---
 First commit.
 
-Neovim files. For testing purposes.
+'Neovim files. For testing purposes.'
+
 ---

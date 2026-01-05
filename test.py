@@ -1,11 +1,5 @@
-"""
-Main module for Python project.
-"""
+from rich import print
 
+# color = red
 
-def main():
-    """Entry point of the application."""
-    print("Hello, World!")
-
-if __name__ == "__main__":
-    main()
+print("[bold rich]Hello World![/bold rich]")

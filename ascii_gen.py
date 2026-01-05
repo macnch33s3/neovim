@@ -1,4 +1,3 @@
-
 from pyfiglet import Figlet
 from flask import Flask
 
@@ -6,7 +5,7 @@ from flask import Flask
 user_text = input("Enter your text: ")
 user_font = input("Enter font: ")
 
-#user_font = input("Enter your text again: ")
+# user_font = input("Enter your text again: ")
 
 # print(user_text)
 
@@ -14,8 +13,8 @@ f = Figlet(font=user_font)
 
 print(f.renderText(user_text))
 
-#app = Flask(ASCII_gen.py)
+# app = Flask(ASCII_gen.py)
 #
-#@app.route("127.0.0.1:5000")
-#def skhello():
+# @app.route("127.0.0.1:5000")
+# def skhello():
 #    return "Test"
