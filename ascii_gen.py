@@ -1,7 +1,6 @@
 from pyfiglet import Figlet
 # from flask import Flask
 
-
 ##text input
 user_text = input("Enter your text: ")
 user_font = input("Enter font: ")
